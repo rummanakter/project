@@ -14,7 +14,7 @@
 
 
     <div class="container">
-        <h2>Basic Calculator</h2>
+        <h2>my Basic Calculator</h2>
 
         <form method="post" action="">
             <input type="number" name="num1" placeholder="Enter first number" required><br>
